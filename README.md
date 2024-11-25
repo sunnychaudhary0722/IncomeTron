@@ -3,6 +3,9 @@
 **IncomeTron** is a machine learning-based prediction model that forecasts the per capita income for any given year using historical data. This project provides insights into Canada’s economic growth trajectory and serves as a tool for analyzing trends in economic well-being.
 
 ---
+![Screenshot 2024-11-26 010857](https://github.com/user-attachments/assets/a4b3e72b-97c3-4483-bc46-7d6e572dd606)
+
+---
 
 ## 🚀 Features
 - Predicts per capita income for a given year.
