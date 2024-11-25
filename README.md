@@ -34,7 +34,7 @@
 ## 🧩 How to Use
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/<your-username>/income-tron.git
+    git clone https://github.com/sunnychaudhary0722/IncomeTron.git
     ```
 2. **Navigate to the Directory**:
     ```bash
